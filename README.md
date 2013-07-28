@@ -22,6 +22,7 @@ turno
 *Situação familiar (com quem mora, pai facelido, mora com madrasta, mora com a vó)
 
 Tech Stack
+-----------
 
 Ruby on Rails
 Extjs
