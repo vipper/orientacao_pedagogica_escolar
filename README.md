@@ -15,18 +15,18 @@ data de nascimento
 turma
 turno
 
-*Algumas informações o sistema deve permitir o orientador informar como:
-*Diagnóstico
-*Se frequenta atendimento especial(psicólogo, psicopedagoga, reforço)
-*Espaço para registro de conversa o aluno, os pais ou professores contendo a data do atendimento
-*Situação familiar (com quem mora, pai facelido, mora com madrasta, mora com a vó)
+*	Algumas informações o sistema deve permitir o orientador informar como:
+*	Diagnóstico
+*	Se frequenta atendimento especial(psicólogo, psicopedagoga, reforço)
+*	Espaço para registro de conversa o aluno, os pais ou professores contendo a data do atendimento
+*	Situação familiar (com quem mora, pai facelido, mora com madrasta, mora com a vó)
 
 Tech Stack
 -----------
 
-Ruby on Rails
-Extjs
-Rspec
-Cucumber
+*	Ruby on Rails
+*	Extjs
+*	Rspec
+*	Cucumber
 
 <tt>rake doc:app</tt>.
