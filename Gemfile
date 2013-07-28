@@ -8,8 +8,8 @@ end
 
 
 group :test do
-  gem ''rspec'
-  gem 'rails'
+  gem 'rspec'
+  gem 'cucumber'
   gem 'cucumber-rails', '0.3.2'
   gem 'database_cleaner'
 end
